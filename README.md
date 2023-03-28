@@ -1,6 +1,6 @@
 # web50-projects-2020-x-wiki
 
-# Design a Wikipedia-like online encyclopedia.
+# Design a Wikipedia-like online encyclopedia. (django)
 
 Complete the implementation of your Wiki encyclopedia. You must fulfill the following requirements:
 
