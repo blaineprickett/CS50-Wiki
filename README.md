@@ -1,4 +1,4 @@
-# web50-projects-2020-x-wiki
+# HarvardX CS50's Web Programming with Python and JavaScript - Project 1
 
 # Design a Wikipedia-like online encyclopedia. (django)
 
